@@ -1,0 +1,15 @@
+{
+^4 hello3;
+@hello3 = 2;
+^s hello2;
+@hello2 = "hello";
+^b hello1;
+$(hello1)[
+
+@hello1 = 2;
+
+];
+
+@hello1 = 2;
+
+}
